@@ -1,4 +1,4 @@
-list = [1, 2, 3, 4, 5, 6, 7]
+list = [1, 2, 3, 4, 5, 6,8, 7]
 def middle(t) :
   return t[1:-1]
 # print results
